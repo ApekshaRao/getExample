@@ -1,0 +1,15 @@
+1) new in virtual box
+name :oracle 11g new
+2)memeory allocated :2014 MB
+3)create a virtual hard drive
+4)hard drive disk file type:VDI(virtualBox disk Image)
+5)storage on fixed hard disk: dynamically allocated
+6)File location and size :C:\oracle11g\oracle 11g New\oracle 11g New.vdi,50 gb
+7)Go to settings and click on storage and click on cd/dvd icon allocate the linux s/w folder
+8)system-extended features-enable I/O APIC
+9)FATAL ERROR :no drive found:then repeat step 7
+
+
+
+------------------------------------
+touch control03.ctl
